@@ -11,5 +11,8 @@ Fi = 1.
 WHILE fi <= 10.
  WRITE:/ fi.
  fi = fi + 1.
-
 ENDWHILE.
+
+
+WRITE: 'test this as well'.
+WRITE: 'Things are getting complicated'.
