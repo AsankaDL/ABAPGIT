@@ -19,3 +19,5 @@ WRITE: 'Things are getting complicated'.
 
 
 WRITE:/ 'This is the 3rd commit'.
+*-- Testing has been successful
+*-- Adding these lines to check
