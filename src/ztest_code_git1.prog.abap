@@ -16,3 +16,5 @@ ENDWHILE.
 
 WRITE: 'test this as well'.
 WRITE: 'Things are getting complicated'.
+
+WRITE: 'Third commit is yet to happen'.
