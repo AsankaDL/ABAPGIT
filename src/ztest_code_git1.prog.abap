@@ -25,3 +25,5 @@ WRITE: '5th commit'.
 WRITE: 'May be the 6th Commit'.
 
 WRITE: 'After a while'.
+
+WRITE: 'Test git repository push'.
