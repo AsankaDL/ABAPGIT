@@ -23,3 +23,5 @@ WRITE: 'test the 4th commit'.
 
 WRITE: '5th commit'.
 WRITE: 'May be the 6th Commit'.
+
+WRITE: 'After a while'.
